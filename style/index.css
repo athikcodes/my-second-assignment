@@ -88,3 +88,115 @@ margin-top: 26px;
 margin-left: 186px;
 
 }
+
+/* second student work */
+.student-container{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 140.39px 0 141px;
+
+}
+.Empowering{
+font-size: 56px;
+font-weight: 700;
+line-height: 61px;
+margin-top: 140px;
+margin-bottom: 24px;
+
+}
+.vision{
+   color:  #FEA301;
+}
+.nel{
+    color: #01ACFD;
+}
+.courage{
+color: rgb(17, 17, 17);
+font-size: 20px;
+font-weight: 400;
+line-height: 25px;
+margin-bottom: 24px;
+
+
+}
+.btn-tez{
+color: rgb(255, 255, 255);
+width: 197px;
+height: 50px;
+padding: 10px;
+font-size: 20px;
+font-weight: 700;
+line-height: 30px;
+border-radius: 12px;
+background: rgb(17, 17, 17);
+
+}
+.student-title{
+    margin-top: 24px;
+}
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:567px) {
+    .school,.sub-container{
+        display: none;
+    }
+    .student-container{
+        flex-direction: column-reverse;
+        margin: 0;
+        padding: 0 30px;
+        
+    }
+    .student-title img{
+        width: 100%;
+
+    }
+    .Empowering{
+        margin: 0;
+        font-size: 34px;
+        text-align: center;
+        margin-top: 20px;
+        
+    }
+    .courage{
+        margin: 0;
+        text-align: center;
+        font-size: 15px;
+        line-height: 18px;
+        font-weight: 500;
+        margin-top: 18px;
+    
+    }
+    .btn-div{
+        text-align: center;
+        margin-top: 18px;
+    }
+    .nav-bar{
+        margin: 0;
+        padding: 12px 16px;
+        box-sizing: border-box;
+        border: 0.5px solid rgb(254, 163, 1); 
+    }
+    .icon-container i{
+        margin-top: 45px;
+        margin-left: 145px;
+       
+    }
+   
+    
+    
+}
+
+@media screen and (min-width:576px) and (max-width:1920px) {
+    .icon-container i{
+        display: none;
+    }
+    
+}
