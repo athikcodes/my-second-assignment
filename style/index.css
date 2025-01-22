@@ -360,7 +360,7 @@ padding-left: 37px;
     border-radius: 16px 16px 0 0;
 }
 .purple{
-    color: rgb(255, 255, 255);
+color: rgb(255, 255, 255);
 font-family: Raleway;
 font-size: 15.34px;
 font-weight: 500;
@@ -435,6 +435,9 @@ margin-bottom: 60px;
     margin-top: 30px;
     margin-left: 70vw;
   
+}
+.display-none{
+    display: none;
 }
 
 
@@ -542,12 +545,12 @@ margin-bottom: 0;
     height: 105.39px;
     border-radius: 9.53px 9.53px 0 0;
 }
-.button-1{
+.present{
     
     width: 20px;
     height: 20px;
 }
-.green{
+.November ,.purple {
     position: absolute;
     width: 103.91px;
     height: 22.83px;
@@ -562,8 +565,8 @@ margin-bottom: 0;
     border-radius: 28.54px;
     background: rgb(149, 178, 38);
     border: none;
-    margin-top: -17px;
-    margin-left: 22.57px;
+    margin-top: 6px;
+    margin-left: -17px;
       
 }
 .purple{
