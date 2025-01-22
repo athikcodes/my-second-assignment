@@ -441,6 +441,105 @@ margin-bottom: 60px;
 }
 
 
+footer{
+height: 519px;
+background: rgb(1, 172, 253);
+
+}
+
+.kids-education{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    
+     
+
+}
+.keep-learning{
+    margin-left: 147px;
+    margin-top: 123px;
+    color: white;
+   
+    
+    
+}
+.separet{
+    display: flex;
+  
+
+}
+.white{
+
+width: 82.9px;
+height: 81.65px;
+margin-bottom: 35.35px;
+}
+
+.kids-one{
+    margin-left: 17px;
+}
+
+.keep-coding{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    margin-top: 123px;
+    margin-left: 330px;
+    
+}
+.kids-one{
+color: rgb(255, 255, 255);
+font-size: 42.14px;
+font-weight: 700;
+line-height: 39.51px;
+
+}
+.pizza-bar{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 25px;
+    
+
+}
+.keep-about{
+color: rgb(255, 255, 255);
+font-family: Quicksand;
+font-size: 24px;
+font-weight: 700;
+line-height: 30px;
+margin-bottom: 32px;
+
+}
+.keep-coding a{
+    margin-bottom: 20px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 25px;
+
+
+}
+.keep-discipline{
+    margin-left: 228.09px;
+    margin-top: 123px;
+    
+}
+.Touch{
+color: rgb(255, 255, 255);
+font-size: 26px;
+font-weight: 700;
+line-height: 27px;
+margin-bottom: 32px;
+
+}
+.keep-discipline img{
+width: 40.61px;
+height: 40px;
+margin-right: 9px;
+}
+
+
 
 
 
@@ -592,7 +691,52 @@ border-radius: 12px;
 margin-top: 20px;
 
 }
+footer{
+    height: 642px;
+}
+.kids-education{
+    display: grid;
+       grid-template-columns: repeat(1,1fr);
+       margin: 0;
+       margin-left: 20px;
+       
+}
+.keep-learning,.keep-discipline,.keep-coding{
+    margin: 0;
+}
+.kids-one{
+    font-size: 35.73px;
+    margin-top: 65px;
+}
+.white{
+    width: 69.23px;
+height: 69.23px;
+    margin-top: 65px;
+    
+}
+.pizza-bar{
+font-size: 16px;
+font-weight: 400;
+}
+.keep-about{
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 32px;
+}
+.keep-coding a{
+font-size: 16.96px;
+font-weight: 500;
 
+}
+.keep-discipline img{
+width: 33.91px;
+height: 33.91px;
+margin-right: 5px;
+}
+.Touch{
+ font-size: 22.04px;
+font-weight: 700;
+}
 
 
  
